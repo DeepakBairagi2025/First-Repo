@@ -1,4 +1,4 @@
 # First-Repo
 This is my first Git Repository.
 <br>
-Author - Deepak Bairagi.
+Author - Deepak Bairagi
